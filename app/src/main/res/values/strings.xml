@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">记事本</string>
+    <string name="tile_label">To do</string>
+</resources>
